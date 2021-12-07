@@ -1,0 +1,6 @@
+htdocs/static
+htdocs/css
+htdocs/js
+htdocs/fonts
+application/views/scripts/index/index.php
+application/configs/dbmm.php

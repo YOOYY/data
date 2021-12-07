@@ -1,0 +1,11 @@
+/php/sitedata
+/php/static/
+/php/application/views/scripts/index/index.php
+/Vue/node_modules/
+
+/php/htdocs/css
+/php/htdocs/js
+/php/htdocs/fonts
+/php/htdocs/static
+/php/application/views/scripts/index/index.php
+php/application/configs/dbmm.php

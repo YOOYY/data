@@ -1,0 +1,9 @@
+今日充值的url接口地址硬编码在model/user.php
+
+开发环境与生产环境注意修改数据库地址，修改跨域请求头
+
+部署时不要上传controllers/SitestatController.php和model/Sitestat.php,这两个文件是卢哥写的，本地文件并不能保证与线上一致
+
+next分支是php的另一个版本，对代码进行了比较激进的优化
+
+build是线上环境
